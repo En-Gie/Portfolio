@@ -6,3 +6,5 @@
 ## Стек:
  - SQL (оконные функции)
  - PostgreSQL
+
+[К оглавлению портфолио](https://github.com/En-Gie/Portfolio/tree/main)
